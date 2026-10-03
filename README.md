@@ -1,4 +1,4 @@
-# Python-Project-A-Simple-Calculator
+# Python Project: A Simple Calculator
 
 In this project, I created a simple calculator with which the user can do four types of calculation (addition, subtraction, multiplication, and division) with two numbers.
 
